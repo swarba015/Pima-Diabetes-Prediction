@@ -25,7 +25,7 @@ The model outputs a prediction for the Outcome variable, which indicates whether
 
 ## How to Use This Repository
 
-1. Clone the Repository
+Clone the Repository
 ```bash
 git clone https://github.com/yourusername/diabetes-prediction-ann.git
 cd diabetes-prediction-ann
